@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Hairoun",
+    "price": 6850,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Beer",
+    "featured": true,
+    "inventory": 100,
+    "size": ["case", "6-pack"]
+  },
+  {
+    "name": "Smallie",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Beer",
+    "price": 5200,
+    "featured": true,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Guiness",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Stout",
+    "price": 8398,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case", "6-pack"]
+  },
+  {
+    "name": "Corona",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Beer",
+    "price": 12580,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Fruit Cocktail",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 4033,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Bitter Lemon",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 4033,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Mauby",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 4033,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Kola",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 4033,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Ginger Ale",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 4033,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Lemon Lime",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 4033,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Tonic",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 4033,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Soda Water",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 3479,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  },
+  {
+    "name": "Vita Malt (Classic)",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 8357,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case", "4-pack"]
+  },
+  {
+    "name": "Vita Malt (Ginger)",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 8357,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case", "4-pack"]
+  },
+  {
+    "name": "Vita Plus",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animinulla doloribus quia quae aliquam sapiente quo ea ad quidem neque",
+    "category": "Soft",
+    "price": 9515,
+    "featured": false,
+    "inventory": 100,
+    "size": ["case"]
+  }
+]
